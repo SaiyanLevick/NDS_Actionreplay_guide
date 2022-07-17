@@ -1,6 +1,7 @@
 # Getting started with DS ActionReplay cheat making
 
 Follow The manual2 for guided procedure
+For any doubts use your brain
 
 links in the manual are uploaded except the c# dump checker.
 
